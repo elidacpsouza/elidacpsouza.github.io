@@ -12,13 +12,13 @@ const RESOURCES = {
 "assets/images/garcom.jpg": "40e39469351b25b68cdda76b822caf60",
 "assets/images/mesa.png": "46a2c9d3eae9fe63a348c352ea4cd804",
 "assets/images/tickicon.png": "8eb898ca95f1c0762293429adab690a1",
-"assets/NOTICES": "50f5652093a98f0b1a410fb8d4ddf94f",
+"assets/NOTICES": "11252b921b27b2431f5eb1f44cf83d86",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "9ab4553183e77a62ae2823bd1ea98e50",
-"/": "9ab4553183e77a62ae2823bd1ea98e50",
-"main.dart.js": "5f91c52378e8766db18c6de26588be4b",
+"index.html": "185cb89d0014a6965ea37ec0cefacdcb",
+"/": "185cb89d0014a6965ea37ec0cefacdcb",
+"main.dart.js": "d39daa21005f3f0a0c65c8a5ec26796e",
 "manifest.json": "f6662231127c1d3abf43582c7d7a754a",
 "version.json": "7f0e45aebfc5b46a96f124181b56e434"
 };
